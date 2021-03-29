@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\c#\calculategh\calculategh\bin\Debug\calculategh.exe.config
+C:\Users\dell\Desktop\c#\calculategh\calculategh\bin\Debug\calculategh.exe
+C:\Users\dell\Desktop\c#\calculategh\calculategh\bin\Debug\calculategh.pdb
+C:\Users\dell\Desktop\c#\calculategh\calculategh\obj\Debug\calculategh.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\c#\calculategh\calculategh\obj\Debug\calculategh.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\c#\calculategh\calculategh\obj\Debug\calculategh.exe
+C:\Users\dell\Desktop\c#\calculategh\calculategh\obj\Debug\calculategh.pdb
